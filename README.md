@@ -15,6 +15,20 @@ Talksy is a modern real-time chat application built with React and Node.js, allo
 - 🔍 User search
 - 📱 Responsive design
 
+### Screenshots
+
+### Login
+![Login Page](./screenshots/login.png) 
+
+### Profile Update
+![Profile Page](./screenshots/profile-update.png)
+
+### Front Page
+![Front Screen](./screenshots/front-page.png)
+
+### Chat Interface
+![Chat Screen](./screenshots/chat.png)
+
 ## Tech Stack
 
 ### Frontend
